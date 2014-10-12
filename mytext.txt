@@ -1,3 +1,4 @@
 Learning about committing to the project.
+Now adding some stuff and deleting some.
 
-Let's test this.
+Now let's test.
